@@ -29,4 +29,6 @@ echo " Setoolkit is Installed in Your Termux "
 echo " Now Type (setoolkit) to Run Setoolkit In Your Termux "
 echo
 echo "Note- This is Beta Version of Set" 
-echo " This setoolkit is Not Fully Stable " 
+echo " This setoolkit is Not Fully Stable "
+cd $HOME
+rm setoolkit_7.7.2.gz
