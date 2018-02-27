@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bash
 echo "          **************************"
 echo
-echo "      subscribe   Tech Z India"
+echo "          Follow UmaR HashMi on Fb
 echo
 echo "          **************************"
 echo
@@ -32,3 +32,4 @@ echo "Note- This is Beta Version of Set"
 echo " This setoolkit is Not Fully Stable "
 cd $HOME
 rm setoolkit_7.7.2.gz
+I
